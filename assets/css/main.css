@@ -3628,8 +3628,6 @@ input, select, textarea {
 /* Contact */
 
 	#contact {
-		padding: 50px 100px;
-		border-bottom: solid 1px rgba(212, 212, 255, 0.1);
 		overflow-x: hidden;
 	}
 
